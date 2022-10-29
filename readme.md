@@ -4,14 +4,14 @@ If you are wondering how to make a sticky navbar using HTML, JavaScript and CSS,
 
 
 ## Video
-Find the video [here](https://www.youtube.com/watch?v=8Oi52zeFuqQ&ab_channel=Safeer)
+Find the video [here](https://youtu.be/vOZdtWu5NZ4)
 
 ## Clone this project
 You need  [Git](https://git-scm.com/) to clone this repositary.
 
 
 ```sh
-git clone https://github.com/safeer98/facebook-login
+git clone https://github.com/safeer98/sticky-navbar
 ```
 ## Copyright
 Safeer owns this. Please credit me 🥺
